@@ -28,7 +28,7 @@ The program features these keyboard and mouse input commands by speech
  * "crouch": holds down the shift key, if the command is called again, the it releases the shift key
  * "walk": holds down the w key
  * "run": holds down the w key and the r key which should be binded as run
- * "jump": presses the spacebar once
+ * "jump": holds the spacebar key down
  * "left hold": hold down the left click of the mouse input
  * "right hold": hold down the right click of the mosue input
  * "left click": left click from the mouse input
