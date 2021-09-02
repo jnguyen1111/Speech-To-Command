@@ -14,7 +14,7 @@ In order for the program to  work, the following requirements are needed below
 # Description
  movement based controlled by speech based on minecrafts keyboard input and mouse movement
  
-#Commands
+# Commands
 The program features these keyboard and mouse input commands by speech
    * "look left": turns the player's camera to the left using the mouse input
  * "look right": turns the player's camera to the right using the mouse input
