@@ -1,4 +1,4 @@
-# SpeechToMovementMinecraft
+# SpeechToCommandMinecraft
 
 # Table of Contents:
  - [Installation](#Installation)
